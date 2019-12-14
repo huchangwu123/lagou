@@ -1,0 +1,371 @@
+/* 搜索栏 */
+.search{
+    width: 100%;
+    min-width: 1200px;
+     background-color: #f2f5f4;
+}
+.searchMain{
+    width: 1200px;
+    height: 150px;
+    padding-top: 30PX;
+    margin: 0 auto;
+}
+.searchMain .top{
+    height: 32px;
+    margin-bottom: 14PX;
+}
+.searchMain .zw,.gs{
+    width: 115px;
+    height: 30px;
+    line-height: 30px;
+    float: left;
+    text-align: center;
+}
+.searchMain .zw{
+    background-color: #00b38a;
+    color:#fff;
+    border-radius: 4px;
+}
+.searchMain dt,.searchMain dd{
+    float: left;
+    line-height: 40px;
+    margin-right: 24px;
+}
+.search .searchMain dt{
+    margin-right: 18px;
+}
+
+.search .searchMain dd a{
+    color: #777;
+    font-size: 14px;
+}
+.search .searchMain .sousuo{
+    width: 805px;
+    height: 46px;
+    outline: none;
+    border: 1px solid #e8e8e8;
+    padding-left: 15px;
+    color: #000;
+}
+.search .searchMain .sousuo:focus{
+    border: 1px solid #00b38a;
+}
+.searchMain .button{
+    width: 142px;
+    height: 46px;
+    background-color: #00b38a;
+    outline: none;
+    border:none;
+    color: #fff;
+    font-size: 16px;
+}
+.all{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.left-5-1{
+    float: left;
+}
+/* 要求 */
+.require{
+    width: 959px;
+}
+.requireMain{
+    height: 230px;
+    width:937px;
+    border: 1px solid #ededed;
+    background-color: #fafafa;
+    padding: 12px 0 12px 23px;
+    margin-top: 35px;
+    margin-bottom: 13px;
+}
+.require dl{
+    float: left;
+    width: 924px;
+    font-size: 14px;
+    line-height: 14px;
+    color: #555;
+    padding-right: 13px;
+}
+.require dt{
+    height: 22px;
+    float: left;
+    margin-right: 8px;
+    padding-top:6px;
+    font-weight: bold; 
+}
+.require dl dd a{
+    float: left;
+    padding: 6px 8px 4px 8px;
+    color:#555;
+    margin-left: 5px
+}
+.require .pretermission a{
+    background-color: #00b38a;
+    color: #fff;
+}
+.require dl dd a:hover{
+    background-color: #00b38a;
+    color: #fff;
+}
+.require .more{
+    width: 46px;
+    height: 12px;
+    float: right;
+    margin-top: 6px;
+    background: url(../images/xiala_03.jpg)no-repeat 34px 3px;
+}
+.sort{
+    height: 19px;
+    width:937px;
+    border: 1px solid #ededed;
+    background-color: #fafafa;
+    padding: 12px 0 12px 23px;
+    margin-bottom: 20px;
+}
+.sort dl{
+    float: left;
+    width:924px;
+    font-size: 14px;
+    line-height: 14px;
+    color: #555;
+    padding-right: 13px;
+}
+.sort dt{
+    height: 22px;
+    float: left;
+    margin-right: 8px;
+    padding-top:6px;
+    font-weight: bold; 
+}
+.sort dl dd a{
+    float: left;
+    padding: 6px 8px 4px 8px;
+    color:#555;
+    margin-left: 5px
+}
+.sort .pretermission a{
+    background-color: #00b38a;
+    color: #fff;
+}
+.sort dl dd a:hover{
+    background-color: #00b38a;
+    color: #fff;
+}
+.sort .mspj{
+    float: right;
+    margin-right: 18px;
+}
+.sort .zx a{
+    margin-right: 50px;
+}
+.sort .yx{
+    margin-right: 37px;
+}
+.sort .page{
+    float: right;
+}
+.sort .page span{
+    color: #00b38a;
+}
+.sort select{
+   height: 23px;
+}
+.sort option{
+    outline: none;
+    color: #555;
+}
+
+.body-5{
+    width: 958px;
+}
+.body-5 ul{
+    margin-bottom:26px;
+}
+.body-5 .top ul li{
+    width: 958px;
+    height: 122px;
+    margin-bottom: 16px;
+    border: 1px solid #ededed;
+}
+.body-5 .box{
+    height: 21px;
+}
+.body-5 .one{
+    float: left;
+    width:464px;
+    height: 64px;
+    padding-left: 15px;
+    padding-top: 18px;
+}
+#first{
+    background:url(../images/jz.png)no-repeat;
+}
+.body-5 .one img{
+    vertical-align: middle;
+}
+.body-5 .two{
+    width: 394px;
+    height: 58px;
+    float: right;
+    padding-left: 85px;
+    padding-top: 24px;
+}
+.body-5 .two .bk{
+    color: #00b38a;
+    height: 20px;
+    width:260px;
+}
+.body-5 .two .bk span{
+    float: left;
+    line-height: 20px;
+}
+.body-5 .two .bk .tubiao5{
+    vertical-align: hidden;
+    float: left;
+    margin-left: 8px;
+}
+.body-5 .two .gstb{
+    float: right;
+    margin-top: -8px;
+    margin-right: 8px;
+}
+.body-5 .two  p{
+    color: #555;
+    width:260px; 
+}
+.body-5 .three{
+    float: left;
+    width:479px;
+    height: 40px;
+    background-color:#fafafa;
+
+}
+.body-5 .three .qd{
+    border-radius: 2px;
+    width: 56px;
+    padding: 4px 5px;
+    border: 1px solid #ededed;
+    color: #555;
+    font-size: 14px; 
+    margin-top: 6px;
+    margin-left: 16px;
+}
+.body-5 .four{
+    float: left;
+    width:479px;
+    height: 40px;
+    background-color:#fafafa;
+}
+.body-5 .four p{
+    margin-left: 92px;
+    line-height: 40px;
+    font-size: 14px;
+    color: #555;
+}
+.body-5  .one .box  .wz1{
+    color: #00b38a;
+    line-height:21px;
+}
+.body-5 .one .box .wz2{
+    font-size: 14px;  
+    line-height: 21px;
+    color: #00b38a;
+}
+.body-5 .one .box .wz3{
+    color: #999;
+}
+.body-5 .wz4,.wz5{
+    line-height: 40px;
+}
+.body-5 .wz4{
+    color: #fd5f39;
+}
+.body-5 .wz5{
+    color: #555;
+     font-size: 14px;
+     margin-right: 20px;
+}
+.body-5{
+    margin-bottom: 40px;
+}
+
+.recommend{
+    width:958px;
+    height:252px;
+    overflow: hidden;
+}
+/* 翻页 */
+
+/* 推荐公司 */
+.section3{
+    width: 958px;
+    height:70px;
+    margin-bottom: 20px;
+}
+.section3 .box{
+    width: 1200px;
+    height: 50px;
+}
+.section3 .box a{
+    float: left;
+    width: 64px;
+    line-height:33px;
+    color: #333;
+}
+.section3 ul li a{
+    float: left;
+    font-size: 12px;
+    color: #00b38a;
+    text-decoration: underline;
+    margin-right: 40px;
+}
+.section3 ul li a:hover{
+    color: #00b38a;
+    text-decoration: underline;
+}
+.section3 span{
+    float: right;
+    color: #999;
+    font-size: 12px;
+}
+.flip{
+    width: 350px;
+    height: 30px;
+    color: #d1c3c0;
+    margin: auto;
+
+}
+.flip .sl{
+    float: left;
+}
+.flip .page,.left,.right{
+    float: left;
+    padding: 8px 10px;
+    border: 1px solid #ededed;
+}
+.flip .page,.right{
+    margin-left: 10px;
+}
+.section2 .flip .ershi{
+    margin-left: 0;
+}
+.sl{
+    margin: 0 5px;
+}
+.flip div:hover{
+    background-color: #00b38a;
+    color: #FFF;
+}
+/* 右侧 */
+.left-5{
+    float: right;
+    margin-top: 50px;
+}
+.left-5 img{
+    display:block;
+}
+.left-5 .t2{
+    margin-top: 14px;
+}

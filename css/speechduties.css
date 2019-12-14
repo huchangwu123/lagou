@@ -1,0 +1,137 @@
+.ad-4{
+    width: 100%;
+    height: 160px;
+    min-width: 1200px;
+    background:#1a1408 url(../images/s4-1.png) no-repeat center;
+    margin: 0 auto;
+}
+.body-4{
+    width: 100%;
+    min-width: 1200px;
+    overflow: hidden; 
+}
+.body-4Main{
+    width: 1200px;
+    margin: auto;
+    padding-top: 45px;
+}
+
+.body-left{
+    float: left;
+    width:766px;
+    height:1344px;
+    box-shadow:3px 0 3px 1px #fafafa;
+    padding-left: 35px;
+    padding-right: 41px;
+    margin-bottom: 45px;
+}
+.body-4Main .tubiao{
+    float: left;
+    height: 172px;
+    width: 45px;
+    margin-left: -55px;
+}
+.body-4Main .tubiao .tb1{
+    width: 48px;
+    height: 49px;
+    background: url(../images/s4-2.png)no-repeat;
+}
+.body-4Main .tubiao .tb2{
+    width: 20px;
+    height: 10px;
+    margin-top: 34px;
+    margin-left: 12px;
+    padding-top: 20px;
+    font-size: 10px;
+    color: #b1b1b1;
+    background: url(../images/s4-3.png)no-repeat 3px 0;
+}
+.body-4Main .tubiao .tb2:hover{
+    color: #00b38a;
+    background: url(../images/s4-4.png)no-repeat 3px 0;
+}
+
+.body-4 .body-4Main .body-left ul li{
+    float: right;
+    width: 712px;
+    height: 156px;
+    padding-top: 28px;
+    border-bottom: 1px solid #ededed;
+}
+.body-4 .body-4Main .body-left ul .first{
+    padding-top: 0;
+}
+.body-left li a:hover {
+    color: #00b38a
+}
+.body-4Main .wz1{
+    font-size:14px; 
+    line-height: 23px;
+}
+.body-4Main .body-left .wz3{
+    font-size: 20px;
+    line-height: 38px;
+    color: #333;
+}
+.body-4Main .body-left .wz3:hover{
+    color: #00b38a;
+}
+.body-4Main .body-left .wz4{
+    font-size: 14px;
+    line-height:22px;
+    color: #777;
+}
+.body-4Main .body-left .wz5{
+    font-size: 14px;
+    line-height:40px;
+}
+.body-4Main .body-left span{
+    color: #b1b1b1;
+}
+.body-right{
+    width: 350px;
+    height: 274px;
+    float: right;
+    text-align: center;
+}
+.body-right .dl,.zc{
+     width: 106px;
+    height: 34px;
+    text-align: center;
+    line-height:34px; 
+    float: left;
+    border: 1px solid #00b38a;
+}
+.body-right .dl{
+    background-color: #00b38a;
+    color: #fff;
+}
+.body-right .zc{
+    color: #00b38a;
+    margin-left: 12px;
+}
+.body-right{
+    font-size: 14px;
+    line-height: 26px;
+}
+.body-right p{
+    color: #555;
+}
+.body-right .more{
+    width: 232px;
+    height: 44px;
+    border: 1px solid #00b38a;
+    color: #00b38a;
+    float: left;
+    margin-top: 25px;
+    line-height: 44px;
+}
+.body-right .input{
+    margin-left: 56px;
+    font-size: 18px;
+}
+.body-right .input div:hover{
+    background-color: #00a57F;
+    color: #fff;
+}
+    

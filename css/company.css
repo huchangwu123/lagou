@@ -1,0 +1,254 @@
+/* 轮播 */
+.lb2{
+    width: 100%;
+    min-width: 1200px;
+    background-color: #00b38b;
+}
+.lb2Main{
+    width: 1200px;
+    height: 389px;
+    margin: auto;
+    text-align: center;
+}
+.lb2Main h2{
+    font-size: 20px;
+    line-height: 92px;
+    color: #FFF;
+    font-weight:bold;
+}
+.lb2Main ul{
+    width: 1200px;
+    height: 234px; 
+}
+.lb2Main li{
+    width: 140px;
+    height: 192px;
+    float: left;
+    background-color: #ccf0e8;
+    padding: 9px 10px 19px;
+    margin-top: 5px;
+}
+.lb2Main li span{
+    line-height: 50px;
+    font-size: 14px;
+}
+.lb2Main .lb2-1{
+    margin-left: 95px;
+}
+.lb2-2,.lb2-4{
+    margin-left: 54px;
+    margin-right: 54px;
+}
+.lb2Main .img{
+    float: right;
+    margin-top: 70px;
+}
+/* 要求 */
+.require{
+    height: 115px;
+    width: 1177px;
+    margin: auto;
+    border: 1px solid #ededed;
+    background-color: #fafafa;
+    padding: 12px 0 12px 23px;
+    margin-top: 35px;
+    margin-bottom: 13px;
+}
+.require dl{
+    float: left;
+    width: 1162px;
+    font-size: 14px;
+    line-height: 14px;
+    color: #555;
+    padding-right: 13px;
+}
+.require dt{
+    height: 22px;
+    float: left;
+    margin-right: 8px;
+    padding-top:6px;
+    font-weight: bold; 
+}
+.require dl dd a{
+    float: left;
+    padding: 6px 8px 4px 8px;
+    color:#555;
+    margin-left: 5px
+}
+.require .pretermission a{
+    background-color: #00b38a;
+    color: #fff;
+}
+.require dl dd a:hover{
+    background-color: #00b38a;
+    color: #fff;
+}
+.require .more{
+    width: 46px;
+    height: 12px;
+    float: right;
+    margin-top: 6px;
+    background: url(../images/xiala_03.jpg)no-repeat 34px 3px;
+}
+.sort{
+    height: 19px;
+    width: 1177px;
+    margin: auto;
+    border: 1px solid #ededed;
+    background-color: #fafafa;
+    padding: 12px 0 12px 23px;
+    margin-bottom: 40px;
+}
+.sort dl{
+    float: left;
+    width: 1050px;
+    font-size: 14px;
+    line-height: 14px;
+    color: #555;
+    padding-right: 13px;
+}
+.sort dt{
+    height: 22px;
+    float: left;
+    margin-right: 8px;
+    padding-top:6px;
+    font-weight: bold; 
+}
+.sort dl dd a{
+    float: left;
+    padding: 6px 8px 4px 8px;
+    color:#555;
+    margin-left: 5px
+}
+.sort .pretermission a{
+    background-color: #00b38a;
+    color: #fff;
+}
+.sort dl dd a:hover{
+    background-color: #00b38a;
+    color: #fff;
+}
+.sort .mspj{
+    float: right;
+    margin-right: 18px;
+}
+/* 主体 */
+.section2{
+    width: 1200px;
+    height: 1328px;
+    margin: auto;
+}
+.section2 ul{
+    height: 1128px;
+    margin-bottom: 35px;
+}
+.section2 ul li{
+    width: 286px;
+    height: 248px;
+    border: 1px solid #eee;
+    float: left;
+    padding-top: 20px;
+    text-align: center;
+}
+.section2 ul li .img{
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+} 
+.section2 ul li .name{
+    display: block;
+    margin-top: 17px;
+    line-height: 16px;
+    color: #333;
+}
+.section2 ul li .wz1{
+    font-size: 14px;
+    line-height: 38px;
+    color: #99a5c2;
+}
+.section2 ul li .wz2{
+    font-size: 14px;
+    line-height: 14px;
+    margin-bottom: 18px;
+    color: #555;
+}
+.section2 ul li .bottom{
+    width: 260px;
+    height: 0;
+    border-top: 1px dashed #e0e0e0;
+    margin: auto;
+    margin-bottom: 17px;
+}
+.section2 ul li .fankui{
+    float: left;
+    width: 90px;
+    height: 30px;
+}
+.section2 ul li .fankui span{
+    display:block;
+    font-size: 14px;
+    line-height: 17px;
+    color: #00b38a
+}
+.section2 ul li .fankui p{
+    font-size: 12px;
+    line-height: 12px;
+    margin-top: 2px;
+    color: #999;
+}
+.section2 ul li .center{
+    border-left:1px solid #ededed; 
+    border-right:1px solid #ededed;
+}
+.k2-1,.k2-2,.k2-3,.k2-4{
+    margin-bottom: 16px;
+}
+.k2-2,.k2-6{
+    margin:0 8px 0 16px;
+}
+.k2-3,.k2-7{
+    margin:0 16px 0 8px;
+}
+.k2-14{
+    margin:0 8px 0 16px;
+}
+.k2-15{
+    margin:0 16px 0 8px;
+}
+.k2-9,.k2-12{
+    margin: 16px 0;
+}
+.k2-10{
+    margin:16px 8px 0 16px;
+}
+.k2-11{
+    margin:16px 16px 0 8px; 
+}
+.flip{
+    width: 350px;
+    height: 30px;
+    margin:auto;
+    color: #d1c3c0;
+}
+.flip .sl{
+    float: left;
+}
+.flip .page,.left,.right{
+    float: left;
+    padding: 8px 10px;
+    border: 1px solid #ededed;
+}
+.flip .page,.right{
+    margin-left: 10px;
+}
+.section2 .flip .ershi{
+    margin-left: 0;
+}
+.sl{
+    margin: 0 5px;
+}
+.flip div:hover{
+    background-color: #00b38a;
+    color: #FFF;
+}
